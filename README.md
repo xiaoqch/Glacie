@@ -24,6 +24,6 @@ lip install github.com/GlacieTeam/Glacie
 | Minecraft Version | Protocol Version |
 | ----------------- | ---------------- |
 | 1.21.50/51        | 766              |
-| 1.21.60/61        | 776              |
+| 1.21.60/61/62     | 776              |
 
 ### Copyright © 2025 GlacieTeam. All rights reserved.
