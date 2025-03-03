@@ -30,4 +30,8 @@ lip install github.com/GlacieTeam/Glacie
 | 1.21.60/61/62     | 776              | :white_check_mark: | 已经支持     |
 | 1.21.70           | 785              | :x:                | 即将支持     |
 
+## 许可
+- [GitHub Release](https://github.com/GlacieTeam/Glacie/releases) 是唯一官方下载源。其它任何下载源都是未经授权的非法转载。
+- 未经许可，严禁任何转载、整合和二次分发。
+
 ### 版权所有 © 2025 GlacieTeam, 保留所有权利.
