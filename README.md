@@ -23,9 +23,11 @@ lip install github.com/GlacieTeam/Glacie
 ```
 
 ## Supported Clients
-| Minecraft Version | Protocol Version |
-| ----------------- | ---------------- |
-| 1.21.50/51        | 766              |
-| 1.21.60/61/62     | 776              |
+| Minecraft Version | Protocol Version | Support Status     | Support Planned    |
+| ----------------- | ---------------- | ------------------ | ------------------ |
+| <= 1.21.4x        | <= 748           | :x:                | No Plan to Support |
+| 1.21.50/51        | 766              | :white_check_mark: | Already Supported  |
+| 1.21.60/61/62     | 776              | :white_check_mark: | Already Supported  |
+| 1.21.70           | 785              | :x:                | Upcoming Support   |
 
 ### Copyright © 2025 GlacieTeam. All rights reserved.
