@@ -29,7 +29,14 @@ lip install github.com/GlacieTeam/Glacie
 | <= 1.21.4x        | <= 748           | :x:                | 无计划支持   |
 | 1.21.50/51        | 766              | :white_check_mark: | 已经支持     |
 | 1.21.60/61/62     | 776              | :white_check_mark: | 已经支持     |
-| 1.21.70           | 785              | :x:                | 即将支持     |
+| 1.21.70           | 786              | :x:                | 即将支持     |
+
+## 交流 & 提问
+- 加入我们的 [Discord](https://discord.gg/7uJNS3tNa6) 社区：https://discord.gg/7uJNS3tNa6
+- 加入我们的 [QQ交流群](https://qm.qq.com/q/1yn1ZHEoyY): 642538983
+
+## 反馈
+- 请通过 [提交Issue](https://github.com/GlacieTeam/Glacie/issues) 来反馈bug
 
 ## 许可
 - [GitHub Release](https://github.com/GlacieTeam/Glacie/releases) 是唯一官方下载源。其它任何下载源都是未经授权的非法转载。
